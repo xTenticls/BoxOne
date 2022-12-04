@@ -1,4 +1,3 @@
--- made by rang#2415 or https://v3rmillion.net/member.php?action=profile&uid=1906262
 local Config = {
     Box               = Toggles.BoxESP.Value,
     BoxOutline        = Toggles.BoxESP.Value,
